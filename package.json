@@ -1,0 +1,11 @@
+{
+  "name": "yelp-camp-version-5",
+  "version": "1.0.0",
+  "description": "##This repo is version 5 of yelp camp and is practice with Node.js, Express.js, MongoDB and EJS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George Higbie",
+  "license": "ISC"
+}
